@@ -1,0 +1,41 @@
+# Created by https://www.gitignore.io/api/psoccreator
+
+### PSoCCreator ###
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+*.cydsn/*.cyprj.*
+
+# Generated Assets and Resources
+Debug/
+Backup/
+Docs/
+Release/
+Export/
+*/codegentemp
+*/Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+.*DS_Store
+Data/
+Case_PCB/
+
+GUI_Python/bin/
+GUI_Python/lib/
+GUI_Python/pyvenv.cfg
+GUI_Python/Lib/
+GUI_Python/pyvenv
+GUI_Python/Scripts/
+GUI_Python/share/
+Data/
+~$dataset_posture.xlsx
+
+.vscode/
+checkpoint/
+GUI_Python/Include/__pycache__/
+# End of https://www.gitignore.io/api/psoccreator
