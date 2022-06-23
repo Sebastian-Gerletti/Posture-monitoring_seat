@@ -2,7 +2,7 @@
 
 
 
-This project was developed in collaboration with https://github.com/giovanni6inve , https://github.com/peppevenezia
+This project was developed in collaboration with https://github.com/giovanni6inve , https://github.com/peppevenezia , https://github.com/alecac96
 
 ## Aim of the project
 
